@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AreaAdjustView">
+        <attr name="areaPointRadius" format="dimension" />
+        <attr name="areaPointColor" format="color" />
+        <attr name="areaLineColor" format="color" />
+    </declare-styleable>
+</resources>
